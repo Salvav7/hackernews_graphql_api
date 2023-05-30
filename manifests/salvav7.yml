@@ -17,7 +17,7 @@ spec:
         name: salvav7
         envFrom:
         - configMapRef:
-           name: salvav7-configmap
+           name: salvav7-config
         livenessProbe:
           httpGet:
             path: /ht/
