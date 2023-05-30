@@ -6,9 +6,9 @@ metadata:
    app: postgres
 data:
  PROD_SECRET_KEY: i-love-adsoftsito-dev
- PROD_DATABASE: ***
- PROD_USER: ***
- PROD_PASSWORD: ****
- PROD_HOST: ****
+ PROD_DATABASE: vazgoxla
+ PROD_USER: vazgoxla
+ PROD_PASSWORD: iq4YXk09eV5zMzTjXTzmFGpyNnIc2MaQ
+ PROD_HOST: rajje.db.elephantsql.com
  PROD_PORT: "5432"
 
